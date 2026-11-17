@@ -9,7 +9,13 @@ electric two-wheelers (E2Ws), how fast will it grow to FY31, and where could an 
 - **Memo:** [`reports/case_memo.md`](reports/case_memo.md), a one-page summary.
 
 ## Key results
-_Fill in after reviewing: FY26 and FY31 size, scenario range, what drives it, where to play._
+- **Size today:** about **₹870 Cr in FY26**, on a fleet of roughly **4.4 million** E2Ws in use.
+- **Size in FY31:** about **₹5,600 Cr** in the base case (≈45% a year), across a **₹3,600–8,200 Cr** bear-to-bull range, on a fleet of about **16 million**.
+- **A battery wave arrives from FY28**, when FY22's scooters reach age six. Battery replacements are roughly **a third of the FY31 base-case market**.
+- **Spend per vehicle beats sales growth as the driver.** Moving annual spend from ₹2,000 to ₹4,000 changes FY31 by **₹2,200–3,000 Cr**; moving sales growth from 10% to 30% changes it by **₹800–1,600 Cr** — because most of FY31's fleet has already been sold.
+- **Where to play:** independent garages could address about **₹1,400 Cr by FY31** at a 25% share, with battery diagnostics and refurbishment, fleet contracts, and multi-brand doorstep service where OEM networks are thin.
+- **Recommendation:** compete for a larger share of existing per-vehicle servicing spend rather than betting on fleet growth — subject to validating willingness to pay and service-centre economics.
+- **Key uncertainties:** annual spend per vehicle (no published figure), battery life and replacement timing, sales growth (11% in CY2025), and independent-service penetration. The five checks that would resolve them are in the [memo](reports/case_memo.md).
 
 ## Approach
 Bottom-up: E2W sales by year (Vahan-based sources) → fleet in use after scrappage → vehicles past their free first year ×
